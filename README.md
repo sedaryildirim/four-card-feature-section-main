@@ -15,7 +15,6 @@
 This is a solution to the [Blog Preview Card challenge on Frontend Mentor](hhttps://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
   <p align="center">   
-
     <a href="https://sedaryildirim.github.io/blog-preview-card-main/">View Site</a>
     ·
     <a href="https://github.com/sedaryildirim/blog-preview-card-main/issues">Report Bug</a>
