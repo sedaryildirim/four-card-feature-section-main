@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-    <img src="/assets/imgs/200w.gif" alt="Logo">
+    <img src="/assets/images/200w.gif" alt="Logo">
   </a>
   <br />
   <br />
@@ -28,8 +28,8 @@ This is a solution to the [Blog Preview Card challenge on Frontend Mentor](hhttp
 
 <div align="center">
 
-![Mobile](./assets/imgs/mobile.png)
-![Desktop](./assets/imgs/desktop.png)
+![Mobile](./assets/images/mobile.png)
+![Desktop](./assets/images/desktop.png)
 </div>
 
 ## Links
